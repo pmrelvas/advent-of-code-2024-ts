@@ -11,4 +11,3 @@ export function extractList(data: string[], index: number): number[] {
       return acc;
     }, []);
 }
-
